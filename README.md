@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Web+Developer+🌐;C%2B%2B+%26+OOP+Developer;Graphics+Designer+🎨;Gen+AI+Enthusiast+🤖;FUUAST+CS+Student+🎓)](https://github.com/muhammadsaqibsaifi)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=muhammadsaqibsaifi)
+
 ---
 
 ### 👨‍💻 About Me
@@ -44,6 +46,24 @@
 
 ![Saqib's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadsaqibsaifi&theme=tokyonight)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadsaqibsaifi&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=muhammadsaqibsaifi&theme=tokyonight&border_radius=8)
+
+---
+
+### 🏆 Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=muhammadsaqibsaifi&theme=tokyonight&row=1&no-frame=true)
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/muhammadsaqibsaifi/muhammadsaqibsaifi/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
