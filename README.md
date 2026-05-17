@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Muhammad Saqib Saifi</h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJybnk2b3pkanU4ZWR4eWF3cGFobXF0enNlZW85bnIwamE1anpqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wuU9Hvp5wF7xe/giphy.gif" width="600"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJybnk2b3pkanU4ZWR4eWF3cGFobXF0enNlZW85bnIwamE1anpqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wuU9Hvp5wF7xe/giphy.gif" width="700"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 - 🎓 BS Computer Science — **FUUAST, Karachi** *(Continuing)*
 - 🌱 Currently learning **React.js → Gen AI**
-- 💼 Built: **Bank Management System, Student Management System**
+- 💼 Built real projects in C++, Web & React
 - 🎨 Skilled in **Graphics Design & SMM**
 - 🗣️ Languages: **Urdu & English**
 - 📍 **Karachi, Pakistan**
@@ -50,24 +50,24 @@
 
 ### 🌐 ToolNest PK
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMwYWtibjUxcWdkaXJ1MW00eDVodGdzM3ZiMHkzNjB4bWlwZGh3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Llifwy28CWFOHtpqdV/giphy.gif" width="100%">
 </p>
 
-- 📌 Collection of useful online tools
+- 📌 Free online web tools — converters, calculators & utilities
 - ⚙️ Tech: HTML, CSS, JavaScript
-- 🔗 [Live Demo](https://toolnestpk.netlify.app)
+- 🔗 [Live Demo](https://toolnestpk.netlify.app) · [Repo](https://github.com/muhammadsaqibsaifi/ToolNest)
 
 </td>
 <td width="50%">
 
 ### 💅 Henna by Wania
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJuYnoyaXBoN3VtaDExOHVraWhlYjRydTZwNmxvbnBkenNmcTRzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o84szFJWeNurGfi3S/giphy.gif" width="100%">
 </p>
 
-- 📌 Beautiful mehndi portfolio website
+- 📌 Beautiful mehndi/henna portfolio website
 - ⚙️ Tech: HTML, CSS, JavaScript
-- 🔗 [Live Demo](https://hennabywania.netlify.app)
+- 🔗 [Live Demo](https://hennabywania.netlify.app) · [Repo](https://github.com/muhammadsaqibsaifi/Heena-By-Wania)
 
 </td>
 </tr>
@@ -76,10 +76,10 @@
 
 ### ✅ To-Do List App
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt2NHY3eHd5bG1kaTlpcDB5YjhjenFwbzdzbWxpcHRmazJyNHBjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GHzucmItVLOuIZYYhR/giphy.gif" width="100%">
 </p>
 
-- 📌 Animated task manager with localStorage
+- 📌 Animated task manager with localStorage support
 - ⚙️ Tech: React.js
 - 🔗 [Repo](https://github.com/muhammadsaqibsaifi/To-Do-List-app-React)
 
@@ -88,12 +88,12 @@
 
 ### ⚡ First of Infinity
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJybnk2b3pkanU4ZWR4eWF3cGFobXF0enNlZW85bnIwamE1anpqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wuU9Hvp5wF7xe/giphy.gif" width="100%">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V5cDUzdnlybnZvNWo1aTJ1dXl6Zzdjc25oYnJlOGl6Y3h2Z3pxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fytdvZKErZiwTLsZgA/giphy.gif" width="100%">
 </p>
 
-- 📌 Hero section web project
+- 📌 Gaming website hero section — epic design
 - ⚙️ Tech: HTML, CSS, JavaScript
-- 🔗 Coming Soon
+- 🔗 [Repo](https://github.com/muhammadsaqibsaifi/FIST-OF-THE-INFINITY)
 
 </td>
 </tr>
@@ -101,12 +101,18 @@
 
 ---
 
-### 🏦 More Projects
+### 📁 All Projects
 
-| Project | Tech | Link |
-|---------|------|------|
-| 🏦 Bank Management System | C++ OOP | — |
-| 🎓 Student Management System | C++ OOP | — |
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| ⚡ First of Infinity | Gaming hero section website | HTML, CSS, JS | [Repo](https://github.com/muhammadsaqibsaifi/FIST-OF-THE-INFINITY) |
+| 💅 Henna by Wania | Mehndi portfolio website | HTML, CSS, JS | [Live](https://hennabywania.netlify.app) · [Repo](https://github.com/muhammadsaqibsaifi/Heena-By-Wania) |
+| 🌐 ToolNest PK | Free online web tools | HTML, CSS, JS | [Live](https://toolnestpk.netlify.app) · [Repo](https://github.com/muhammadsaqibsaifi/ToolNest) |
+| ✅ To-Do List App | React task manager | React.js | [Repo](https://github.com/muhammadsaqibsaifi/To-Do-List-app-React) |
+| 🖥️ Landing Page | First ever HTML/CSS project | HTML, CSS | [Repo](https://github.com/muhammadsaqibsaifi/landing-page) |
+| 🅱️ Bootstrap Practice | Bootstrap learning project | HTML, Bootstrap | [Repo](https://github.com/muhammadsaqibsaifi/using-Bootstrap) |
+| 🏦 Bank Management System | OOP based banking system | C++ | — |
+| 🎓 Student Management System | Student records system | C++ | — |
 
 ---
 
