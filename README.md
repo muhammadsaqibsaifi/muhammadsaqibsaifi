@@ -115,6 +115,7 @@
 | ⚡ First of Infinity | Gaming hero section website | HTML, CSS, JS | [Repo](https://github.com/muhammadsaqibsaifi/FIST-OF-THE-INFINITY) |
 | 💅 Henna by Wania | Mehndi portfolio website | HTML, CSS, JS | [Live](https://hennabywania.netlify.app) · [Repo](https://github.com/muhammadsaqibsaifi/Heena-By-Wania) |
 | 🌐 ToolNest PK | Free online web tools | HTML, CSS, JS | [Live](https://toolnestpk.netlify.app) · [Repo](https://github.com/muhammadsaqibsaifi/ToolNest) |
+| ✅ To-Do List App | React task manager | React.js | [Repo](https://github.com/muhammadsaqibsaifi/Github-User-Finder) |
 | ✅ To-Do List App | React task manager | React.js | [Repo](https://github.com/muhammadsaqibsaifi/To-Do-List-app-React) |
 | 🖥️ Landing Page | First ever HTML/CSS project | HTML, CSS | [Repo](https://github.com/muhammadsaqibsaifi/landing-page) |
 | 🅱️ Bootstrap Practice | Bootstrap learning project | HTML, Bootstrap | [Repo](https://github.com/muhammadsaqibsaifi/using-Bootstrap) |
