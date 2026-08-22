@@ -96,18 +96,6 @@
 - 🔗 [Repo](https://github.com/muhammadsaqibsaifi/To-Do-List-app-React)
 
 </td>
-<td width="50%">
-
-### ⚡ First of Infinity
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V5cDUzdnlybnZvNWo1aTJ1dXl6Zzdjc25oYnJlOGl6Y3h2Z3pxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fytdvZKErZiwTLsZgA/giphy.gif" width="100%">
-</p>
-
-- 📌 Gaming website hero section — epic design
-- ⚙️ Tech: HTML, CSS, JavaScript
-- 🔗 [Repo](https://github.com/muhammadsaqibsaifi/FIST-OF-THE-INFINITY)
-
-</td>
 </tr>
 </table>
 
