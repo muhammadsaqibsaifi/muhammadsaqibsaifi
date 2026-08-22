@@ -86,12 +86,6 @@
 </td>
 <td width="50%" valign="top">
 
-<!-- Agla project yahan add karein -->
-
-</td>
-</tr>
-</table>
-
 ### ✅ To-Do List App
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt2NHY3eHd5bG1kaTlpcDB5YjhjenFwbzdzbWxpcHRmazJyNHBjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GHzucmItVLOuIZYYhR/giphy.gif" width="100%">
@@ -101,9 +95,12 @@
 - ⚙️ Tech: React.js
 - 🔗 [Repo](https://github.com/muhammadsaqibsaifi/To-Do-List-app-React)
 
+
 </td>
 </tr>
 </table>
+
+
 
 ---
 
