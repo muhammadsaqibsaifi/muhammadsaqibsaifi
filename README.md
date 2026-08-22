@@ -46,8 +46,8 @@
 
 <table>
 <tr>
-<td width="50%">
-  
+<td width="50%" valign="top">
+
 ### 🛒 Product Hunter
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBzY2wyaGgwMHB6azdseHFhYXJ6eTNsdTlqZDN6bXRqOGRscW1xMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dmz31oe42yacpyVDWU/giphy.gif" width="100%">
@@ -58,8 +58,8 @@
 - 🔗 [Repo](https://github.com/muhammadsaqibsaifi/Product-Hunter)
 
 </td>
-<td width="50%">
-  
+<td width="50%" valign="top">
+
 ### 🌐 ToolNest PK
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMwYWtibjUxcWdkaXJ1MW00eDVodGdzM3ZiMHkzNjB4bWlwZGh3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Llifwy28CWFOHtpqdV/giphy.gif" width="100%">
@@ -70,7 +70,9 @@
 - 🔗 [Live Demo](https://toolnestpk.netlify.app) · [Repo](https://github.com/muhammadsaqibsaifi/ToolNest)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 💅 Henna by Wania
 <p align="center">
@@ -82,9 +84,13 @@
 - 🔗 [Live Demo](https://hennabywania.netlify.app) · [Repo](https://github.com/muhammadsaqibsaifi/Heena-By-Wania)
 
 </td>
+<td width="50%" valign="top">
+
+<!-- Agla project yahan add karein -->
+
+</td>
 </tr>
-<tr>
-<td width="50%">
+</table>
 
 ### ✅ To-Do List App
 <p align="center">
