@@ -47,7 +47,19 @@
 <table>
 <tr>
 <td width="50%">
+  
+### 🛒 Product Hunter
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBzY2wyaGgwMHB6azdseHFhYXJ6eTNsdTlqZDN6bXRqOGRscW1xMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dmz31oe42yacpyVDWU/giphy.gif" width="100%">
+</p>
 
+- 📌 A React-based product search and price comparison app
+- ⚙️ Tech: HTML, CSS, JavaScript, React, SerpApi
+- 🔗 [Repo](https://github.com/muhammadsaqibsaifi/Product-Hunter)
+
+</td>
+<td width="50%">
+  
 ### 🌐 ToolNest PK
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMwYWtibjUxcWdkaXJ1MW00eDVodGdzM3ZiMHkzNjB4bWlwZGh3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Llifwy28CWFOHtpqdV/giphy.gif" width="100%">
@@ -112,6 +124,7 @@
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
+| 🛒 Product Hunter | Find the best product at the lowest price | HTML, CSS, JS, React, SerpApi | [Repo](https://github.com/muhammadsaqibsaifi/Product-Hunter) |
 | ⚡ First of Infinity | Gaming hero section website | HTML, CSS, JS | [Repo](https://github.com/muhammadsaqibsaifi/FIST-OF-THE-INFINITY) |
 | 💅 Henna by Wania | Mehndi portfolio website | HTML, CSS, JS | [Live](https://hennabywania.netlify.app) · [Repo](https://github.com/muhammadsaqibsaifi/Heena-By-Wania) |
 | 🌐 ToolNest PK | Free online web tools | HTML, CSS, JS | [Live](https://toolnestpk.netlify.app) · [Repo](https://github.com/muhammadsaqibsaifi/ToolNest) |
